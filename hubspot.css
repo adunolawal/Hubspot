@@ -1,0 +1,70 @@
+.all {
+    color:rgb(55, 55, 66)
+}
+.firstlistSection li{
+    display: inline-block;
+}
+ul{
+    display:inline-block;
+}
+.secondlistSection li{
+    display: inline-block;
+}
+.firstSection {
+    padding-left: 650px;
+    padding-right: 80px;
+    word-spacing: 10px;
+}
+.firstButton button{
+    background-color:rgb(221, 127, 44);
+    color:white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px; 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.secondSection {
+    margin-left: 100px;
+    padding-left: 50px;
+    word-spacing: 30px;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.firstPicture {
+    margin-left: 480px;
+    margin-top: -345px;
+}
+.firstimage {
+    border: 2px;
+    border-radius: 4px;
+}
+.thirdSection {
+    margin-left: 150px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.titleword {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    font-size: 23px;
+}
+.secondword {
+    font-size: 19px;
+}
+.thirdword {
+    font-size:14px;
+}
+.fourthword {
+    font-size:14px;
+    margin-left:120px;
+}
+.secondbutton button {
+    margin-left: 100px;
+    padding: 18px;
+    padding-right: 20px; 
+    padding-left: 20px;
+}
+.fifthword {
+    margin-top: 58px;
+    margin-left: 180px;
+    text-align: justify;
+    font-size: 18px;
+}
